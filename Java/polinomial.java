@@ -1,0 +1,20 @@
+import java.util.*;
+class polinomial
+{
+	public static void main(String args[])
+	{
+		int num,rev=0,temp;
+		Scanner obj= new Scanner(System.in);
+		System.out.println("enter no.");
+	    num=obj.nextInt();
+	   for(temp=num;num>0;num/=10)
+	   {
+		   rev=rev*10+(num%10);
+	   }
+	   if(temp==rev)
+		System.out.println("number is polinomial");
+		else
+				System.out.println("number isnot polinomial");
+
+	}
+}

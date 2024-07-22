@@ -1,0 +1,17 @@
+import java.util.*;
+class reverse2
+{
+	public static void main(String args[])
+	{
+		int num,rev=0;
+		Scanner obj= new Scanner(System.in);
+		System.out.println("enter no.");
+		n=obj.nextInt();
+	   for(;num>0;num/=10)
+	   {
+		   rev=rev*10+(num%10);
+	   }
+		System.out.println("reverse="+rev);
+		
+	}
+}

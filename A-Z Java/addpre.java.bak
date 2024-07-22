@@ -1,0 +1,17 @@
+import java.util.Scanner;
+class addpre
+{
+  public static void main(String args[])
+   {
+	 Scanner obj=new Scanner(System.in);
+	 System.out.println("sum of three number");
+	 int num1=5;
+	 int num2=6;
+	 int num3=9;
+	 int sum= num1+num2+num3;
+	 //System.out.println("addition="+sum);
+	 System.out.println("addition=");
+	 System.out.println(sum);
+	 }
+}
+	

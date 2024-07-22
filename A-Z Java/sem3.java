@@ -1,0 +1,15 @@
+import java.util.* ;
+class sem3
+{
+	public static void main(String args[])
+	{
+		int a,b,c;
+		Scanner obj=new Scanner(System.in);
+		System.out.print("enter the value for a:");
+		a=obj.nextInt();
+		System.out.print("enter the value for b:");
+		b=obj.nextInt();
+		c=a+b;
+		System.out.println("additon="+c);
+	}
+}	
