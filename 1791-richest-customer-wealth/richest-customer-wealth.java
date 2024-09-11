@@ -1,19 +1,14 @@
 class Solution {
     public int maximumWealth(int[][] accounts) {
-        int maxWealth = 0;
-      
-        // Loop through each customer's account
-        for (int[] customerAccounts : accounts) {
-            // Sum the wealth of the current customer
-            int customerWealth = 0;
-            for (int accountBalance : customerAccounts) {
-                customerWealth += accountBalance;
+        int max = 0;
+        int sum = 0;
+        for (int i = 0 ; i < accounts.length ; i++){
+            for (int j = 0 ; j < accounts[0].length ; j++){
+                sum += accounts[i][j];
             }
-          
-            // Update maxWealth if the current customer's wealth is greater
-            maxWealth = Math.max(maxWealth, customerWealth);
+            if (sum > max)max = sum;
+            sum = 0;
         }
-        // Return the maximum wealth across all customers
-        return maxWealth;
+        return max;
     }
 }
