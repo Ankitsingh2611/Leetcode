@@ -1,49 +1,35 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-           int left = findLeftBound(nums, target);
-    int right = findRightBound(nums, target);
-
-    return new int[]{left, right};
+                   int[] ans = {-1, -1};
+       // check the first occurance if target first
+        int start = search(nums, target, true);
+        int end = search(nums, target, false);
+        ans[0]=start;
+        ans[1]=end;
+        return ans;
   }
-
-  private int findLeftBound(int[] nums, int target) {
-    int index = -1, low = 0, high = nums.length - 1;
-
-    // Standard binary search
-    while (low <= high) {
-      int mid = low + (high - low) / 2;
-
-      if (nums[mid] == target) {
-        index = mid;
-        high = mid - 1; // Look in the left sub-array
-      }
-      else if (nums[mid] < target)
-        low = mid + 1;
-      else
-        high = mid - 1;
+      int search(int[] nums, int target, boolean findStartIndex){
+        int ans = -1;
+        int start =0;
+        int end = nums.length-1;
+        while (start<=end){
+            //find the mid element
+            //int mid = start+end)/2
+            int mid = start +(end - start)/2;
+            if (target< nums[mid]){
+                end = mid -1;
+            } else if (target> nums[mid]){
+                start= mid + 1;
+            } else {
+                //potential answer found
+                ans= mid;
+                if (findStartIndex){
+                    end=mid-1;
+                } else {
+                    start=mid+1;
+                }
+            }
+        }
+        return ans;
     }
-
-    return index;
-  }
-
-  private int findRightBound(int[] nums, int target) {
-    int index = -1, low = 0, high = nums.length - 1;
-
-    // Standard binary search
-    while (low <= high) {
-      int mid = low + (high - low) / 2;
-
-      if (nums[mid] == target) {
-        index = mid;
-        low = mid + 1; // Look in the right sub-array
-      }
-      else if (nums[mid] < target)
-        low = mid + 1;
-      else
-        high = mid - 1;
-    }
-
-    return index;
-  }
-
 }
