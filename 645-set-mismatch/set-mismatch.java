@@ -1,16 +1,24 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        int n = nums.length;
-        int s1 = (1 + n) * n / 2;
-        int s2 = 0;
-        Set<Integer> set = new HashSet<>();
-        int s = 0;
-        for (int x : nums) {
-            if (set.add(x)) {
-                s2 += x;
+        int i =0;
+        while(i<nums.length){
+            int correct = nums[i] - 1;
+            if(nums[i] != nums[correct]){
+                swap(nums, i, correct);
+            } else{
+                i++;
             }
-            s += x;
         }
-        return new int[] {s - s2, s1 - s2};
+        for(int index =0; index<nums.length; index++){
+             if(nums[index] != index +1){
+                return new int[] {nums[index], index +1};
+             }
+        }
+        return new int[] {-1, -1};
+    }
+    static void swap(int[] arr, int first, int second){
+        int temp = arr[first];
+        arr[first] = arr[second];
+        arr[second] = temp;
     }
 }
