@@ -1,28 +1,24 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
-         boolean contains_one = false;
-        for(int x: nums){
-            if(x == 1){
-                contains_one = true;
-                break;
+        int i = 0;
+        while(i< nums.length){
+            int correct = nums[i] -1;
+            if(nums[i]>0 && nums[i]<=nums.length && nums[i]!=nums[correct]){
+                swap(nums, i, correct);
+            } else{
+                i++;
             }
         }
-        if(!contains_one) return 1;
-        
-        int n = nums.length;
-        if(n == 1) return 2;
-        
-        for(int i = 0; i < n; ++i)
-            if(nums[i] <= 0 || nums[i] > n) nums[i] = 1;
-        
-        for(int i = 0; i < n; ++i){
-            int x = Math.abs(nums[i]);
-            if(nums[x-1] > 0) nums[x-1] *= -1;
+        for(int index= 0; index<nums.length; index++){
+             if (nums[index] != index + 1) {
+                return index + 1;
+            }
         }
-        
-        for(int i = 0; i < n; ++i)
-            if(nums[i] > 0) return i+1;
-        
-        return n+1;
+        return nums.length +1;
+    }
+    static void swap(int[] arr, int first, int second) {
+        int temp = arr[first];
+        arr[first] = arr[second];
+        arr[second] = temp;
     }
 }
