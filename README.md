@@ -53,6 +53,8 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1080-camelcase-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1080-camelcase-matching) |
 | [1185-find-in-mountain-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1185-find-in-mountain-array) |
+| [1256-rank-transform-of-an-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1256-rank-transform-of-an-array) |
+| [1306-minimum-absolute-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1306-minimum-absolute-difference) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -60,13 +62,16 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1449-print-words-vertically](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1449-print-words-vertically) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1580-shuffle-the-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1603-running-sum-of-1d-array) |
 | [1622-max-value-of-equation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1622-max-value-of-equation) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -100,6 +105,7 @@
 | [0645-set-mismatch](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0645-set-mismatch) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0924-fair-candy-swap) |
+| [1256-rank-transform-of-an-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1635-number-of-good-pairs) |
@@ -112,6 +118,7 @@
 | [0645-set-mismatch](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0861-flipping-an-image) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1435-xor-queries-of-a-subarray) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -131,8 +138,13 @@
 | [0539-minimum-time-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0924-fair-candy-swap) |
+| [1256-rank-transform-of-an-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1256-rank-transform-of-an-array) |
+| [1306-minimum-absolute-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1306-minimum-absolute-difference) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1707-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1707-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -291,6 +303,7 @@
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1635-number-of-good-pairs) |
 | [1983-maximum-population-year](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1983-maximum-population-year) |
@@ -376,6 +389,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0215-kth-largest-element-in-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1622-max-value-of-equation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1622-max-value-of-equation) |
 ## Monotonic Queue
 |  |
