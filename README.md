@@ -55,6 +55,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0861-flipping-an-image) |
+| [0878-shifting-letters](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0907-koko-eating-bananas) |
@@ -101,11 +102,13 @@
 | [1791-richest-customer-wealth](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1899-count-items-matching-a-rule) |
+| [1923-sentence-similarity-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1923-sentence-similarity-iii) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1983-maximum-population-year](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2027-maximum-number-of-removable-characters](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2027-maximum-number-of-removable-characters) |
 | [2047-find-a-peak-element-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2058-concatenation-of-array) |
@@ -210,6 +213,8 @@
 | [0349-intersection-of-two-arrays](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0455-assign-cookies) |
+| [0556-next-greater-element-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0556-next-greater-element-iii) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0861-flipping-an-image](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0958-sort-array-by-parity-ii) |
@@ -217,27 +222,45 @@
 | [1080-camelcase-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1080-camelcase-matching) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1739-split-two-strings-to-make-palindrome) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1923-sentence-similarity-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1923-sentence-similarity-iii) |
+| [2027-maximum-number-of-removable-characters](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2027-maximum-number-of-removable-characters) |
 ## String
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0010-regular-expression-matching) |
+| [0043-multiply-strings](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0065-valid-number) |
 | [0179-largest-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0556-next-greater-element-iii) |
+| [0686-repeated-string-match](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0686-repeated-string-match) |
 | [0763-special-binary-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0763-special-binary-string) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0878-shifting-letters](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0935-orderly-queue](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0935-orderly-queue) |
 | [1080-camelcase-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1080-camelcase-matching) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1449-print-words-vertically](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1449-print-words-vertically) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1678-number-of-ways-to-split-a-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1707-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1707-check-if-string-is-transformable-with-substring-sort-operations) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1739-split-two-strings-to-make-palindrome) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1899-count-items-matching-a-rule](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1899-count-items-matching-a-rule) |
+| [1923-sentence-similarity-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1923-sentence-similarity-iii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2001-jump-game-vii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2001-jump-game-vii) |
+| [2027-maximum-number-of-removable-characters](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2027-maximum-number-of-removable-characters) |
 | [2755-extra-characters-in-a-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2755-extra-characters-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -248,6 +271,7 @@
 | [0198-house-robber](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0410-split-array-largest-sum) |
+| [2001-jump-game-vii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2001-jump-game-vii) |
 | [2755-extra-characters-in-a-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2755-extra-characters-in-a-string) |
 ## Recursion
 |  |
@@ -260,6 +284,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0566-reshape-the-matrix) |
@@ -286,6 +311,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0214-shortest-palindrome) |
+| [0686-repeated-string-match](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0686-repeated-string-match) |
 | [1080-camelcase-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1080-camelcase-matching) |
 ## Greedy
 |  |
@@ -305,15 +331,18 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0441-arranging-coins) |
 | [0539-minimum-time-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0755-reach-a-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0755-reach-a-number) |
 | [0935-orderly-queue](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0935-orderly-queue) |
@@ -326,16 +355,21 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1635-number-of-good-pairs) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1678-number-of-ways-to-split-a-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1678-number-of-ways-to-split-a-string) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1885-count-number-of-homogenous-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0410-split-array-largest-sum) |
+| [0878-shifting-letters](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0878-shifting-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1983-maximum-population-year](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1983-maximum-population-year) |
+| [2001-jump-game-vii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2001-jump-game-vii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Matrix
 |  |
@@ -415,6 +449,7 @@
 | [1946-minimum-absolute-sum-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2027-maximum-number-of-removable-characters](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2027-maximum-number-of-removable-characters) |
 | [2047-find-a-peak-element-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2047-find-a-peak-element-ii) |
 ## Memoization
 |  |
@@ -454,6 +489,7 @@
 | ------- |
 | [1622-max-value-of-equation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1622-max-value-of-equation) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2001-jump-game-vii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2001-jump-game-vii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -505,4 +541,5 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
