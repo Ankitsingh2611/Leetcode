@@ -25,6 +25,7 @@
 | [0075-sort-colors](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0088-merge-sorted-array) |
+| [0140-word-break-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0162-find-peak-element) |
@@ -129,6 +130,7 @@
 | [0041-first-missing-positive](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0073-set-matrix-zeroes) |
+| [0140-word-break-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0268-missing-number) |
@@ -254,6 +256,7 @@
 | [0058-length-of-last-word](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0125-valid-palindrome) |
+| [0140-word-break-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0140-word-break-ii) |
 | [0168-excel-sheet-column-title](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0214-shortest-palindrome) |
@@ -310,6 +313,7 @@
 | [0010-regular-expression-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0055-jump-game) |
+| [0140-word-break-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0410-split-array-largest-sum) |
@@ -349,6 +353,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0140-word-break-ii) |
 | [0386-lexicographical-numbers](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0472-concatenated-words) |
@@ -511,6 +516,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0241-different-ways-to-add-parentheses) |
 ## Depth-First Search
 |  |
@@ -606,6 +612,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0140-word-break-ii) |
 | [1022-unique-paths-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1022-unique-paths-iii) |
 ## Combinatorics
 |  |
