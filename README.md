@@ -612,6 +612,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0052-n-queens-ii) |
 | [0140-word-break-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0140-word-break-ii) |
 | [1022-unique-paths-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1022-unique-paths-iii) |
 ## Combinatorics
