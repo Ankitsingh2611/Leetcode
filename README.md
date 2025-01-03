@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0055-jump-game) |
@@ -612,6 +613,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0052-n-queens-ii) |
 | [0140-word-break-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0140-word-break-ii) |
 | [1022-unique-paths-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1022-unique-paths-iii) |
