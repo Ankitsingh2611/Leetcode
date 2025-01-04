@@ -330,6 +330,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0763-special-binary-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0763-special-binary-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1936-maximize-number-of-nice-divisors](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1936-maximize-number-of-nice-divisors) |
 ## Simulation
 |  |
 | ------- |
@@ -416,6 +417,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1936-maximize-number-of-nice-divisors](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1936-maximize-number-of-nice-divisors) |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
 ## Prefix Sum
 |  |
@@ -545,6 +547,7 @@
 |  |
 | ------- |
 | [1372-check-if-it-is-a-good-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1372-check-if-it-is-a-good-array) |
+| [1936-maximize-number-of-nice-divisors](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1936-maximize-number-of-nice-divisors) |
 ## Queue
 |  |
 | ------- |
