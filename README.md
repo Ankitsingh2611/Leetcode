@@ -327,6 +327,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0010-regular-expression-matching) |
+| [0060-permutation-sequence](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0273-integer-to-english-words) |
@@ -392,6 +393,7 @@
 | [0009-palindrome-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0168-excel-sheet-column-title) |
