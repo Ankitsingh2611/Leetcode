@@ -281,6 +281,7 @@
 | [0961-long-pressed-name](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0961-long-pressed-name) |
 | [1080-camelcase-matching](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1080-camelcase-matching) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1133-last-substring-in-lexicographical-order) |
+| [1197-parsing-a-boolean-expression](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1197-parsing-a-boolean-expression) |
 | [1205-defanging-an-ip-address](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1205-defanging-an-ip-address) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1321-get-equal-substrings-within-budget) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -332,6 +333,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0273-integer-to-english-words) |
 | [0763-special-binary-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0763-special-binary-string) |
+| [1197-parsing-a-boolean-expression](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1936-maximize-number-of-nice-divisors](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1936-maximize-number-of-nice-divisors) |
 ## Simulation
@@ -617,6 +619,7 @@
 | [0020-valid-parentheses](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0227-basic-calculator-ii) |
+| [1197-parsing-a-boolean-expression](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1197-parsing-a-boolean-expression) |
 | [2128-reverse-prefix-of-word](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2128-reverse-prefix-of-word) |
 ## Backtracking
 |  |
