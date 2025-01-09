@@ -79,6 +79,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1306-minimum-absolute-difference) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1331-path-with-maximum-gold](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1331-path-with-maximum-gold) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -455,6 +456,7 @@
 | [0921-spiral-matrix-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0921-spiral-matrix-iii) |
 | [1022-unique-paths-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1022-unique-paths-iii) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1094-matrix-cells-in-distance-order) |
+| [1331-path-with-maximum-gold](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1331-path-with-maximum-gold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1677-matrix-diagonal-sum) |
@@ -632,6 +634,7 @@
 | [0052-n-queens-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0052-n-queens-ii) |
 | [0140-word-break-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0140-word-break-ii) |
 | [1022-unique-paths-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1022-unique-paths-iii) |
+| [1331-path-with-maximum-gold](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1331-path-with-maximum-gold) |
 ## Combinatorics
 |  |
 | ------- |
