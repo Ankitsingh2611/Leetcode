@@ -541,6 +541,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0472-concatenated-words) |
+| [0813-all-paths-from-source-to-target](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0813-all-paths-from-source-to-target) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -637,6 +638,7 @@
 | [0052-n-queens-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0052-n-queens-ii) |
 | [0140-word-break-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0140-word-break-ii) |
 | [0526-beautiful-arrangement](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0526-beautiful-arrangement) |
+| [0813-all-paths-from-source-to-target](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1022-unique-paths-iii) |
 | [1331-path-with-maximum-gold](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1331-path-with-maximum-gold) |
 ## Combinatorics
@@ -647,4 +649,12 @@
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0526-beautiful-arrangement) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0813-all-paths-from-source-to-target) |
+## Graph
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
