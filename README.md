@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0051-n-queens) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0073-set-matrix-zeroes) |
@@ -451,6 +453,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0073-set-matrix-zeroes) |
@@ -637,6 +640,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0052-n-queens-ii) |
 | [0140-word-break-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0140-word-break-ii) |
