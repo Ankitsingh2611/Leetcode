@@ -116,6 +116,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1899-count-items-matching-a-rule) |
 | [1923-sentence-similarity-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1923-sentence-similarity-iii) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1946-minimum-absolute-sum-difference) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1983-maximum-population-year](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -354,6 +355,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1936-maximize-number-of-nice-divisors](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1936-maximize-number-of-nice-divisors) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
 | ------- |
@@ -369,6 +371,7 @@
 | [1449-print-words-vertically](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1449-print-words-vertically) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1505-create-target-array-in-the-given-order) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2058-concatenation-of-array) |
@@ -446,6 +449,7 @@
 | [1885-count-number-of-homogenous-substrings](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1936-maximize-number-of-nice-divisors](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1936-maximize-number-of-nice-divisors) |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -584,6 +588,7 @@
 |  |
 | ------- |
 | [1622-max-value-of-equation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1622-max-value-of-equation) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
 | ------- |
