@@ -668,7 +668,7 @@
 | [1160-letter-tile-possibilities](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1160-letter-tile-possibilities) |
 | [1331-path-with-maximum-gold](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1331-path-with-maximum-gold) |
 ## Combinatorics
-|  |
+|  | 
 | ------- |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
 ## Bitmask
