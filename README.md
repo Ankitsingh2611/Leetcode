@@ -279,6 +279,7 @@
 | [0227-basic-calculator-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0394-decode-string) |
 | [0472-concatenated-words](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0472-concatenated-words) |
 | [0539-minimum-time-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0556-next-greater-element-iii) |
@@ -350,6 +351,7 @@
 | [0224-basic-calculator](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0486-predict-the-winner) |
 | [0763-special-binary-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0763-special-binary-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1197-parsing-a-boolean-expression) |
@@ -650,6 +652,7 @@
 | [0143-reorder-list](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1197-parsing-a-boolean-expression) |
 | [2128-reverse-prefix-of-word](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2128-reverse-prefix-of-word) |
 ## Backtracking
@@ -668,7 +671,7 @@
 | [1160-letter-tile-possibilities](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1160-letter-tile-possibilities) |
 | [1331-path-with-maximum-gold](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1331-path-with-maximum-gold) |
 ## Combinatorics
-|  | 
+|  |
 | ------- |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
 ## Bitmask
