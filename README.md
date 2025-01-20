@@ -335,6 +335,7 @@
 | [0140-word-break-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0410-split-array-largest-sum) |
 | [0472-concatenated-words](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0486-predict-the-winner) |
@@ -428,6 +429,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0486-predict-the-winner) |
@@ -681,6 +683,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0279-perfect-squares) |
 | [0813-all-paths-from-source-to-target](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0813-all-paths-from-source-to-target) |
 ## Graph
 |  |
