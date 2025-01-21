@@ -359,6 +359,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1936-maximize-number-of-nice-divisors](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1936-maximize-number-of-nice-divisors) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -412,6 +413,7 @@
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2089-maximum-matrix-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2089-maximum-matrix-sum) |
+| [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## Math
 |  |
 | ------- |
@@ -454,6 +456,7 @@
 | [1936-maximize-number-of-nice-divisors](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1936-maximize-number-of-nice-divisors) |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## Prefix Sum
 |  |
 | ------- |
