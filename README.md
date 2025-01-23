@@ -360,6 +360,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1936-maximize-number-of-nice-divisors](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1936-maximize-number-of-nice-divisors) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2050-count-good-numbers) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## Simulation
 |  |
@@ -458,6 +459,7 @@
 | [1936-maximize-number-of-nice-divisors](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1936-maximize-number-of-nice-divisors) |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2050-count-good-numbers) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## Prefix Sum
 |  |
