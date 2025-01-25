@@ -54,6 +54,7 @@
 | [0455-assign-cookies](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0455-assign-cookies) |
 | [0472-concatenated-words](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0526-beautiful-arrangement) |
 | [0539-minimum-time-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0540-single-element-in-a-sorted-array) |
@@ -340,6 +341,7 @@
 | [0410-split-array-largest-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0410-split-array-largest-sum) |
 | [0472-concatenated-words](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0526-beautiful-arrangement) |
 | [1764-maximum-repeating-substring](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1764-maximum-repeating-substring) |
 | [2001-jump-game-vii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2001-jump-game-vii) |
@@ -677,6 +679,7 @@
 | [0052-n-queens-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0052-n-queens-ii) |
 | [0140-word-break-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0526-beautiful-arrangement) |
 | [0813-all-paths-from-source-to-target](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1022-unique-paths-iii) |
