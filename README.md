@@ -26,6 +26,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0088-merge-sorted-array) |
 | [0140-word-break-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0140-word-break-ii) |
@@ -272,6 +273,7 @@
 | [0049-group-anagrams](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0065-valid-number) |
+| [0079-word-search](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0140-word-break-ii) |
 | [0168-excel-sheet-column-title](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0168-excel-sheet-column-title) |
@@ -488,6 +490,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0079-word-search) |
 | [0566-reshape-the-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0898-transpose-matrix) |
@@ -575,6 +578,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0079-word-search) |
 | [0386-lexicographical-numbers](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0472-concatenated-words) |
 | [0813-all-paths-from-source-to-target](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0813-all-paths-from-source-to-target) |
@@ -677,6 +681,7 @@
 | [0040-combination-sum-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0494-target-sum) |
