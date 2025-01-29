@@ -360,6 +360,7 @@
 | [0224-basic-calculator](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0486-predict-the-winner) |
@@ -444,6 +445,7 @@
 | [0268-missing-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0441-arranging-coins) |
