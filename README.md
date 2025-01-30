@@ -166,6 +166,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0342-power-of-four) |
@@ -358,6 +359,7 @@
 | [0060-permutation-sequence](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0326-power-of-three) |
@@ -441,6 +443,7 @@
 | [0189-rotate-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0273-integer-to-english-words) |
