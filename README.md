@@ -111,6 +111,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1677-matrix-diagonal-sum) |
+| [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -120,6 +121,7 @@
 | [1923-sentence-similarity-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1923-sentence-similarity-iii) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1946-minimum-absolute-sum-difference) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1983-maximum-population-year](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -178,6 +180,8 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Sorting
 |  |
 | ------- |
@@ -242,6 +246,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0455-assign-cookies) |
@@ -286,6 +291,7 @@
 | [0227-basic-calculator-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0273-integer-to-english-words) |
+| [0344-reverse-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0394-decode-string) |
 | [0472-concatenated-words](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0472-concatenated-words) |
 | [0539-minimum-time-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0539-minimum-time-difference) |
@@ -349,6 +355,7 @@
 | [0494-target-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0526-beautiful-arrangement) |
 | [1013-fibonacci-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1013-fibonacci-number) |
+| [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 | [1764-maximum-repeating-substring](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1764-maximum-repeating-substring) |
 | [2001-jump-game-vii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2001-jump-game-vii) |
 | [2755-extra-characters-in-a-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2755-extra-characters-in-a-string) |
@@ -478,6 +485,7 @@
 | [1936-maximize-number-of-nice-divisors](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1936-maximize-number-of-nice-divisors) |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2050-count-good-numbers](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2050-count-good-numbers) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## Prefix Sum
@@ -513,6 +521,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1677-matrix-diagonal-sum) |
+| [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 | [1791-richest-customer-wealth](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2047-find-a-peak-element-ii) |
@@ -712,6 +721,7 @@
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0526-beautiful-arrangement) |
+| [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 ## Breadth-First Search
 |  |
 | ------- |
