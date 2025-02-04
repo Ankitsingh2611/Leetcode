@@ -90,6 +90,7 @@
 | [1331-path-with-maximum-gold](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1331-path-with-maximum-gold) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1435-xor-queries-of-a-subarray) |
@@ -159,6 +160,7 @@
 | [1160-letter-tile-possibilities](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1256-rank-transform-of-an-array) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1635-number-of-good-pairs) |
@@ -177,6 +179,7 @@
 | [0795-k-th-symbol-in-grammar](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0795-k-th-symbol-in-grammar) |
 | [0861-flipping-an-image](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0861-flipping-an-image) |
 | [1022-unique-paths-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1022-unique-paths-iii) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -518,6 +521,7 @@
 | [1022-unique-paths-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1022-unique-paths-iii) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1094-matrix-cells-in-distance-order) |
 | [1331-path-with-maximum-gold](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1331-path-with-maximum-gold) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1677-matrix-diagonal-sum) |
@@ -727,6 +731,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0279-perfect-squares) |
 | [0813-all-paths-from-source-to-target](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0813-all-paths-from-source-to-target) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 ## Graph
 |  |
 | ------- |
@@ -736,4 +741,3 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
- 
