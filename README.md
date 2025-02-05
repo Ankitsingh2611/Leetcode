@@ -148,6 +148,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0073-set-matrix-zeroes) |
 | [0140-word-break-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0349-intersection-of-two-arrays) |
@@ -170,6 +171,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0287-find-the-duplicate-number) |
@@ -289,6 +291,7 @@
 | [0140-word-break-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0140-word-break-ii) |
 | [0168-excel-sheet-column-title](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0227-basic-calculator-ii) |
@@ -611,10 +614,12 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0214-shortest-palindrome) |
 ## Divide and Conquer
 |  |
@@ -638,6 +643,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0187-repeated-dna-sequences) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1321-get-equal-substrings-within-budget) |
 | [1622-max-value-of-equation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1622-max-value-of-equation) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
