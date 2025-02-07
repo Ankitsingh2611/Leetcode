@@ -171,6 +171,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0089-gray-code) |
 | [0187-repeated-dna-sequences](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0231-power-of-two) |
@@ -450,6 +451,7 @@
 | [0007-reverse-integer](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0060-permutation-sequence) |
