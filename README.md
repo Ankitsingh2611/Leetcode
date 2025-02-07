@@ -171,6 +171,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0089-gray-code) |
 | [0187-repeated-dna-sequences](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0268-missing-number) |
@@ -454,6 +455,7 @@
 | [0060-permutation-sequence](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0224-basic-calculator) |
@@ -715,6 +717,7 @@
 | [0051-n-queens](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0089-gray-code) |
 | [0140-word-break-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0494-target-sum) |
