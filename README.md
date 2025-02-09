@@ -30,6 +30,7 @@
 | [0079-word-search](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0088-merge-sorted-array) |
+| [0137-single-number-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0137-single-number-ii) |
 | [0140-word-break-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -173,6 +174,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0089-gray-code) |
+| [0137-single-number-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0268-missing-number) |
