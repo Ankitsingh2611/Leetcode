@@ -27,6 +27,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0088-merge-sorted-array) |
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0137-single-number-ii) |
@@ -722,6 +724,7 @@
 | [0040-combination-sum-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0090-subsets-ii) |
