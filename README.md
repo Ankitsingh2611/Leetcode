@@ -121,6 +121,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1833-find-the-highest-altitude) |
+| [1839-decode-xored-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1839-decode-xored-array) |
 | [1899-count-items-matching-a-rule](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1899-count-items-matching-a-rule) |
 | [1923-sentence-similarity-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1923-sentence-similarity-iii) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1946-minimum-absolute-sum-difference) |
@@ -128,6 +129,7 @@
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1983-maximum-population-year](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1983-maximum-population-year) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2027-maximum-number-of-removable-characters) |
@@ -169,6 +171,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1873-longest-nice-substring](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1873-longest-nice-substring) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2755-extra-characters-in-a-string](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2755-extra-characters-in-a-string) |
 ## Bit Manipulation
@@ -194,7 +197,10 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
+| [1839-decode-xored-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1839-decode-xored-array) |
+| [1873-longest-nice-substring](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1873-longest-nice-substring) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
 | ------- |
@@ -340,6 +346,7 @@
 | [1797-goal-parser-interpretation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1873-longest-nice-substring](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1873-longest-nice-substring) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1899-count-items-matching-a-rule) |
@@ -502,6 +509,7 @@
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2050-count-good-numbers) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## Prefix Sum
@@ -640,6 +648,7 @@
 | [0169-majority-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1873-longest-nice-substring](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1873-longest-nice-substring) |
 ## Number Theory
 |  |
 | ------- |
@@ -656,6 +665,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0187-repeated-dna-sequences) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1321-get-equal-substrings-within-budget) |
 | [1622-max-value-of-equation](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1622-max-value-of-equation) |
+| [1873-longest-nice-substring](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1873-longest-nice-substring) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2001-jump-game-vii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/2001-jump-game-vii) |
 ## Heap (Priority Queue)
@@ -736,10 +746,12 @@
 | [1022-unique-paths-iii](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1160-letter-tile-possibilities) |
 | [1331-path-with-maximum-gold](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1331-path-with-maximum-gold) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
 | ------- |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bitmask
 |  |
 | ------- |
@@ -759,4 +771,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/0486-predict-the-winner) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ankitsingh2611/GeeksLeet/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
